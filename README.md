@@ -1,2 +1,2 @@
-#Chorniy_DO CS-24
+#Chorniy_CS-24
 
